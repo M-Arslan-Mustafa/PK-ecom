@@ -27,7 +27,7 @@ export default function RootLayout({
         ></link>
         <title>Pakistanify | Find Only Pakistan Made Products</title>
         <meta
-          content="Discover the ultimate online shopping experience tailored for Lahore, Pakistan, with Pakistanify. Explore an amazing bunch of products, including daily essentials like Snacks, Cold Drinks, and Grocery items, to exquisite Home Decor and Accessories, all proudly made in Pakistan. Enjoy unbeatable discounts on every purchase and the convenience of cash on delivery (COD), ensuring your favorite items reach your doorstep with ease. Pakistanify offers exclusive deals and remarkable offers that are unparalleled. Dive into the ultimate ecommerce experience and discover the best of Pakistani craftsmanship, exclusively at Pakistanify."
+          content="Discover the ultimate online shopping experience tailored Especially for Lahore, Pakistan, with Pakistanify. Explore an amazing bunch of products, including daily essentials like Snacks, Cold Drinks, and Grocery items, to exquisite Home Decor and Accessories, all proudly made in Pakistan. Enjoy unbeatable discounts on every purchase and the convenience of cash on delivery (COD), ensuring your favorite items reach your doorstep with ease. Pakistanify offers exclusive deals and remarkable offers that are unparalleled. Dive into the ultimate ecommerce experience and discover the best of Pakistani craftsmanship, exclusively at Pakistanify."
           name="description"
         />
         <meta
@@ -35,7 +35,7 @@ export default function RootLayout({
           property="og:title"
         />
         <meta
-          content="Discover the ultimate online shopping experience tailored for Lahore, Pakistan, with Pakistanify. Explore an amazing bunch of products, including daily essentials like Snacks, Cold Drinks, and Grocery items, to exquisite Home Decor and Accessories, all proudly made in Pakistan. Enjoy unbeatable discounts on every purchase and the convenience of cash on delivery (COD), ensuring your favorite items reach your doorstep with ease. Pakistanify offers exclusive deals and remarkable offers that are unparalleled. Dive into the ultimate ecommerce experience and discover the best of Pakistani craftsmanship, exclusively at Pakistanify."
+          content="Discover the ultimate online shopping experience tailored Especially for Lahore, Pakistan, with Pakistanify. Explore an amazing bunch of products, including daily essentials like Snacks, Cold Drinks, and Grocery items, to exquisite Home Decor and Accessories, all proudly made in Pakistan. Enjoy unbeatable discounts on every purchase and the convenience of cash on delivery (COD), ensuring your favorite items reach your doorstep with ease. Pakistanify offers exclusive deals and remarkable offers that are unparalleled. Dive into the ultimate ecommerce experience and discover the best of Pakistani craftsmanship, exclusively at Pakistanify."
           property="og:description"
         />
         <meta content="/public/icon.png" property="og:image" />
